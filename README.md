@@ -1,0 +1,2 @@
+# pratica
+exercicio com js
