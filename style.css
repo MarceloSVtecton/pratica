@@ -1,0 +1,30 @@
+@charset "UTF-8";
+body {
+    background-color: aqua;
+    font: normal, 15pt, Arial;
+}
+header {
+    color: rgb(15, 15, 15);
+    text-align: center;
+}
+section {
+    background-color: #a6dcde;
+    border-radius: 10px;
+    padding: 15px;
+    width: 500px;
+    margin: auto;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.527);
+
+}
+    #foto {
+        text-align: center;
+    }
+
+footer {
+    margin-top: 50px;
+    color: rgb(5, 5, 5);
+    text-align: center;
+    font-style: italic;
+
+
+}
