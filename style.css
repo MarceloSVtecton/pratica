@@ -36,7 +36,9 @@ footer {
 
 }
 @media screen and (max-whidth: 480px) {
-   
+    body {
+        width: min-content;
+    }
     section {
         width: 350px;
         height: 300px;
