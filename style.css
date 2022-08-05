@@ -6,6 +6,7 @@ body {
 header {
     color: rgb(15, 15, 15);
     text-align: center;
+    m
 }
 section {
     background-color: #a6dcde;
@@ -16,6 +17,9 @@ section {
     box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.527);
 
 }
+    #msg {
+        text-align: center;
+    }
     #foto {
         text-align: center;
     }
