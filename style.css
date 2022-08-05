@@ -35,3 +35,10 @@ footer {
 
 
 }
+@media screen and (max-whidth: 480px) {
+    body {
+        margin-left: 5%;
+        margin-right: 5%;
+    }
+    
+}
