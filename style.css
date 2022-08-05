@@ -44,5 +44,9 @@ footer {
         height: 200px;
         
     }
-    
 }
+@media screen and (orientation: portrait) {
+    section {
+        margin-top: 150px;
+    }
+}    
